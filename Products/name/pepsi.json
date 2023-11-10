@@ -1,0 +1,37 @@
+{
+	"barcode": "",
+	"company_prefix": "",
+	"product_name_en": "Pepsi",
+	"product_name_ar": "بيبسي",
+	"product_image": "Pepsi.jpg",
+	"country_of_origin_en": "United States",
+	"country_of_origin_ar": "الولايات المتحدة",
+	"manufacturer_en": "PepsiCo",
+	"manufacturer_ar": "بيبسيكو",
+	"company_name_en": "Pepsi Cola Egypt",
+	"company_name_ar": "بيبسي كولا مصر",
+	"category_en": "Drinks",
+	"category_ar": "مشروبات",
+	"replacement": [
+		{
+			"product_name_en": "SPIRO SPATHIS",
+			"product_name_ar": "سبرو سبايتس",
+			"product_image": ""
+		},
+		{
+			"product_name_en": "V7",
+			"product_name_ar": "",
+			"product_image": ""
+		},
+		{
+			"product_name_en": "Oasis",
+			"product_name_ar": "",
+			"product_image": ""
+		},
+		{
+			"product_name_en": "Sina Cola",
+			"product_name_ar": "سينا كولا",
+			"product_image": "Sina-Cola.png"
+		}
+	]
+}
