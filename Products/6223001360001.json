@@ -27,6 +27,11 @@
 			"product_name_en": "Oasis",
 			"product_name_ar": "",
 			"product_image": ""
+		},
+		{
+			"product_name_en": "Sina Cola",
+			"product_name_ar": "سينا كولا",
+			"product_image": "Sina-Cola.png"
 		}
 	]
 }
