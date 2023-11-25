@@ -1,0 +1,24 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "SPIRO SPATHIS",
+			"product_name_ar": "سبرو سبايتس",
+			"product_image": "Spiro-Spathis.jpg"
+		},
+		{
+			"product_name_en": "V7",
+			"product_name_ar": "في 7",
+			"product_image": "v7.png"
+		},
+		{
+			"product_name_en": "Oasis",
+			"product_name_ar": "أويسيس",
+			"product_image": "Oasis.jpg"
+		},
+		{
+			"product_name_en": "Sina Cola",
+			"product_name_ar": "سينا كولا",
+			"product_image": "Sina-Cola.png"
+		}
+	]
+}
