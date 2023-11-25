@@ -1,6 +1,6 @@
 {
-	"barcode": "6223001360001",
-	"company_prefix": "622300136",
+	"barcode": "0012000001291",
+	"company_prefix": "001200",
 	"product_name_en": "Pepsi",
 	"product_name_ar": "بيبسي",
 	"product_image": "Pepsi.jpg",
@@ -8,8 +8,8 @@
 	"country_of_origin_ar": "الولايات المتحدة",
 	"manufacturer_en": "PepsiCo",
 	"manufacturer_ar": "بيبسيكو",
-	"company_name_en": "Pepsi Cola Egypt",
-	"company_name_ar": "بيبسي كولا مصر",
+	"company_name_en": "",
+	"company_name_ar": "",
 	"category_en": "Soda",
 	"category_ar": "مشروب غازي",
 	"replacement": []
