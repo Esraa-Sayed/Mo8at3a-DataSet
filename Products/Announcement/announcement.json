@@ -9,5 +9,12 @@
 	],
 	"video_id": "WEFNrCRdSIs",
 	"video_title_en": "Demonstrations in several Arab countries against the Israeli bombing of Gaza and in support of the Palestinians",
-	"video_title_ar": "مظاهرات في عدة دول عربية ضد القصف الإسرائيلي لغزة و دعما للفلسطينيين"
+	"video_title_ar": "مظاهرات في عدة دول عربية ضد القصف الإسرائيلي لغزة و دعما للفلسطينيين",
+	"boycott_companies": [
+		{
+			"image": "boycott_children.jpg",
+			"company_name_en": "PepsiCo",
+			"company_name_ar": "بيبسيكو"
+		}
+	]
 }
