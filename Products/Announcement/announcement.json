@@ -21,5 +21,6 @@
 			"company_name_en": "",
 			"company_name_ar": ""
 		}
-	]
+	],
+	"show_rocket_image": false
 }
