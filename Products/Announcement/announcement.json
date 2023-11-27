@@ -1,26 +1,3 @@
 {
-	"announcements": [
-		{
-			"image": "boycott_children.jpg"
-		},
-		{
-			"image": "boycott_star.jpg"
-		}
-	],
-	"video_id": "VNeoHwDjj0E",
-	"video_title_en": "Abu Trika attacks the world because of the Palestinian issue - Long live Palestine",
-	"video_title_ar": "أبو تريكة يهاجم العالم بسبب القضية الفلسطـينية - فـ لتحيا فلسطين ♥",
-	"boycott_companies": [
-		{
-			"image": "pepsico.png",
-			"company_name_en": "",
-			"company_name_ar": ""
-		},
-		{
-			"image": "nestle.png",
-			"company_name_en": "",
-			"company_name_ar": ""
-		}
-	],
-	"show_rocket_image": false
+	
 }
