@@ -20,6 +20,51 @@
 			"image": "nestle.png",
 			"company_name_en": "",
 			"company_name_ar": ""
+		},
+		{
+			"image": "coca-cola.png",
+			"company_name_en": "",
+			"company_name_ar": ""
+		},
+		{
+			"image": "general-mills.jpg",
+			"company_name_en": "",
+			"company_name_ar": ""
+		},
+		{
+			"image": "unilever.png",
+			"company_name_en": "",
+			"company_name_ar": ""
+		},
+		{
+			"image": "kelloggs.png",
+			"company_name_en": "",
+			"company_name_ar": ""
+		},
+		{
+			"image": "danone.jpg",
+			"company_name_en": "",
+			"company_name_ar": ""
+		},
+		{
+			"image": "mars.png",
+			"company_name_en": "",
+			"company_name_ar": ""
+		},
+		{
+			"image": "cadbury.png",
+			"company_name_en": "",
+			"company_name_ar": ""
+		},
+		{
+			"image": "associated_british_foods.png",
+			"company_name_en": "",
+			"company_name_ar": ""
+		},
+		{
+			"image": "mondelez.jpg",
+			"company_name_en": "",
+			"company_name_ar": ""
 		}
 	],
 	"show_rocket_image": true
