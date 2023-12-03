@@ -7,7 +7,7 @@
 		},
 		{
 			"product_name_en": "V7",
-			"product_name_ar": "في 7",
+			"product_name_ar": "V7",
 			"product_image": "v7.png"
 		},
 		{
@@ -19,6 +19,26 @@
 			"product_name_en": "Sina Cola",
 			"product_name_ar": "سينا كولا",
 			"product_image": "Sina-Cola.png"
+		},
+		{
+			"product_name_en": "Buzz",
+			"product_name_ar": "Buzz",
+			"product_image": "Buzz.png"
+		},
+		{
+			"product_name_en": "Double Dare",
+			"product_name_ar": "دبل دير",
+			"product_image": "Double-Dare.png"
+		},
+		{
+			"product_name_en": "Top Cola",
+			"product_name_ar": "توب كولا",
+			"product_image": "Top-Cola.jpg"
+		},
+		{
+			"product_name_en": "Maxi Cola",
+			"product_name_ar": "ماكسي كولا",
+			"product_image": "Maxi-Cola.jpg"
 		}
 	]
 }
