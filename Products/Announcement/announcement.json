@@ -67,5 +67,6 @@
 			"company_name_ar": ""
 		}
 	],
-	"show_rocket_image": true
+	"show_rocket_image": true,
+	"rocket_image": "rockets.jpg"
 }
