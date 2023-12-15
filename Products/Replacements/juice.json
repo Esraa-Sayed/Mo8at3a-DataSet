@@ -1,0 +1,49 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "AGA",
+			"product_name_ar": "أجا",
+			"product_image": "Aga.jpg"
+		},
+		{
+			"product_name_en": "Fruty",
+			"product_name_ar": "فروتي",
+			"product_image": "Fruty.jpg"
+		},
+		{
+			"product_name_en": "Coffee Shake",
+			"product_name_ar": "كوفي شيك",
+			"product_image": "Coffee-Shake.jpg"
+		},
+		{
+			"product_name_en": "Kaha",
+			"product_name_ar": "قها",
+			"product_image": "Kaha.jpg"
+		},
+		{
+			"product_name_en": "Dina Farms",
+			"product_name_ar": "مزارع دينا",
+			"product_image": "Dina-Farms.png"
+		},
+		{
+			"product_name_en": "Juhayna",
+			"product_name_ar": "جهينه",
+			"product_image": "Juhayna.jpg"
+		},
+		{
+			"product_name_en": "Juhayna Pure",
+			"product_name_ar": "جهينة بيور",
+			"product_image": "Juhayna-Pure.jpg"
+		},
+		{
+			"product_name_en": "Bekhero",
+			"product_name_ar": "بخيره",
+			"product_image": "Bekhero.png"
+		},
+		{
+			"product_name_en": "Latteria",
+			"product_name_ar": "لاتيريا",
+			"product_image": "Latteria.png"
+		}
+	]
+}

@@ -7,13 +7,8 @@
 		},
 		{
 			"product_name_en": "V7",
-			"product_name_ar": "V7",
+			"product_name_ar": "في 7",
 			"product_image": "v7.png"
-		},
-		{
-			"product_name_en": "Oasis",
-			"product_name_ar": "أويسيس",
-			"product_image": "Oasis.jpg"
 		},
 		{
 			"product_name_en": "Sina Cola",
@@ -22,12 +17,12 @@
 		},
 		{
 			"product_name_en": "Buzz",
-			"product_name_ar": "Buzz",
+			"product_name_ar": "باز",
 			"product_image": "Buzz.png"
 		},
 		{
 			"product_name_en": "Double Dare",
-			"product_name_ar": "دبل دير",
+			"product_name_ar": "دابل دير",
 			"product_image": "Double-Dare.png"
 		},
 		{
@@ -39,6 +34,26 @@
 			"product_name_en": "Maxi Cola",
 			"product_name_ar": "ماكسي كولا",
 			"product_image": "Maxi-Cola.jpg"
+		},
+		{
+			"product_name_en": "UGO",
+			"product_name_ar": "يوجو",
+			"product_image": "UGO.png"
+		},
+		{
+			"product_name_en": "adio mojito",
+			"product_name_ar": "اديو موجيتو",
+			"product_image": "adio-mojito.jpg"
+		},
+		{
+			"product_name_en": "Double X",
+			"product_name_ar": "دابل اكس",
+			"product_image": "Double-X.png"
+		},
+		{
+			"product_name_en": "Snaps",
+			"product_name_ar": "سنابس",
+			"product_image": "snaps.png"
 		}
 	]
 }
