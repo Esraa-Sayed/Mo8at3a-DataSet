@@ -1,0 +1,59 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "AL RAYHAN",
+			"product_name_ar": "الريحان",
+			"product_image": "AL-RAYHAN_maraa.jpg"
+		},
+		{
+			"product_name_en": "bab elsham",
+			"product_name_ar": "باب الشام ",
+			"product_image": "bab-elsham_maraa.jpg"
+		},
+		{
+			"product_name_en": "bab elsham",
+			"product_name_ar": "باب الشام ",
+			"product_image": "bab-elsham.png"
+		},
+		{
+			"product_name_en": "Chefy mix",
+			"product_name_ar": "شيفي مكس",
+			"product_image": "Chefy-mix_maraa.jpg"
+		},
+		{
+			"product_name_en": "Chefy mix",
+			"product_name_ar": "شيفي مكس",
+			"product_image": "Chefy-mix.jpg"
+		},
+		{
+			"product_name_en": "Chicken Stock Weal's FOOD",
+			"product_name_ar": "مرقة دجاج ويلز فود",
+			"product_image": "Chicken-Stock-Weal's-FOOD_maraa.jpg"
+		},
+		{
+			"product_name_en": "Haj Arafa",
+			"product_name_ar": "حاج عرفة",
+			"product_image": "Haj-Arafa_maraa.jpg"
+		},
+		{
+			"product_name_en": "Haj Arafa",
+			"product_name_ar": "حاج عرفة",
+			"product_image": "Haj-Arafa.jpg"
+		},
+		{
+			"product_name_en": "Latteria",
+			"product_name_ar": "لاتيريا",
+			"product_image": "Latteria_maraa.jpg"
+		},
+		{
+			"product_name_en": "Latteria",
+			"product_name_ar": "لاتيريا",
+			"product_image": "Latteria.png"
+		},
+		{
+			"product_name_en": "Weal's FOOD",
+			"product_name_ar": "ويلز فود",
+			"product_image": "Weal's_FOOD.jpg"
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "1st CHOICE Mayonnaise",
+			"product_name_ar": "مايونيز فرست تشويس",
+			"product_image": "1st-CHOICE_Mayonnaise.jpg"
+		},
+		{
+			"product_name_en": "ADD-ME MAYONNAISE",
+			"product_name_ar": "مايونيز آد مي",
+			"product_image": "ADD-ME_MAYONNAISE.jpg"
+		},
+		{
+			"product_name_en": "Admiral Spicy Mayonnaise",
+			"product_name_ar": "أدميرال مايونيز حار",
+			"product_image": "Admiral-Spicy-Mayonnaise.jpg"
+		},
+		{
+			"product_name_en": "Dino Mayonesa",
+			"product_name_ar": "مايونيز دينو",
+			"product_image": "Dino-Mayonesa.jpg"
+		},
+		{
+			"product_name_en": "DINO'S mayonnaise",
+			"product_name_ar": "مايونيز دينو",
+			"product_image": "DINO'S-mayonnaise.jpg"
+		},
+		{
+			"product_name_en": "Durra NAYO MAYONNAISE",
+			"product_name_ar": "مايونيز دورا",
+			"product_image": "Mayonnaise_Durra.jpg"
+		},
+		{
+			"product_name_en": "GIARDINO MAYO SAUCE",
+			"product_name_ar": "مايونيز صوص جاردينو",
+			"product_image": "Mayonnaise_GIARDINO.jpg"
+		},
+		{
+			"product_name_en": "MAZAQ Sauce MAYONNAISE",
+			"product_name_ar": "مذاق صوص مايونيز",
+			"product_image": "MAZAQ-Sauce_MAYONNAISE.jpg"
+		},
+		{
+			"product_name_en": "McSauce MAYONNAISE",
+			"product_name_ar": "ام سي صوص مايونيز",
+			"product_image": "Mc-Sauce_MAYONNAISE.jpg"
+		},
+		{
+			"product_name_en": "Rose Garden MAYO Sauce",
+			"product_name_ar": "مايونيز روز جاردن",
+			"product_image": "Rose-Garden_Ketchup_MAYO.jpg"
+		},
+		{
+			"product_name_en": "SUPER FOODS Mayonnaise",
+			"product_name_ar": "مايونيز سوبر فودز",
+			"product_image": "SUPER-FOODS_Mayonnaise.jpg"
+		},
+		{
+			"product_name_en": "TopValue Mayo",
+			"product_name_ar": "مايونيز توب فاليو",
+			"product_image": "TopValue_Mayonnaise.jpg"
+		},
+		{
+			"product_name_en": "VIP Mayonnaise",
+			"product_name_ar": "مايونيز في أي بي",
+			"product_image": "VIP_Mayonnaise.jpg"
+		},
+		{
+			"product_name_en": "Zad Sauce Mayonnaise",
+			"product_name_ar": "مايونيز زاد صوص",
+			"product_image": "Zad-Sauce_Mayonnaise.jpg"
+		}
+	]
+}

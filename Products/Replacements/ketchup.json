@@ -1,0 +1,74 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "1st CHOICE Ketchup",
+			"product_name_ar": "كاتشب فرست تشويس",
+			"product_image": "1st-CHOICE_Ketchup.jpg"
+		},
+		{
+			"product_name_en": "ADD-ME HOT Ketchup",
+			"product_name_ar": "آد مي كاتشب حار",
+			"product_image": "Ketchup_ADD-ME.jpg"
+		},
+		{
+			"product_name_en": "Biozentrale Ketchup",
+			"product_name_ar": "كاتشب بيو",
+			"product_image": "biozentrale_ketchup.png"
+		},
+		{
+			"product_name_en": "DR SAUCE Ketchup",
+			"product_name_ar": "كاتشب دكتور صوص",
+			"product_image": "Ketchup_Dr-Sauce.png"
+		},
+		{
+			"product_name_en": "Durra Ketchup",
+			"product_name_ar": "كاتشب دورا",
+			"product_image": "Ketchup_Durra.jpg"
+		},
+		{
+			"product_name_en": "GIARDINO Ketchup",
+			"product_name_ar": "كاتشب جاردينو",
+			"product_image": "Ketchup_GIARDINO.jpg"
+		},
+		{
+			"product_name_en": "Healthy Ketchup wadi Food",
+			"product_name_ar": "كاتشب صحي وادي فود",
+			"product_image": "Healthy-Ketchup_wadi-Food.jpg"
+		},
+		{
+			"product_name_en": "MAZAQ Sauce ketchup",
+			"product_name_ar": "مذاق صوص كاتشب",
+			"product_image": "MAZAQ-Sauce_Ketchup.jpg"
+		},
+		{
+			"product_name_en": "naturesta ketchup",
+			"product_name_ar": "كاتشب ناتورستا",
+			"product_image": "naturesta_ketchup.jpg"
+		},
+		{
+			"product_name_en": "Rose Garden Ketchup",
+			"product_name_ar": "كاتشب روز جاردن",
+			"product_image": "Rose-Garden_Ketchup.jpg"
+		},
+		{
+			"product_name_en": "SUPER FOODS Ketchup",
+			"product_name_ar": "كاتشب سوبر فودز",
+			"product_image": "SUPER-FOODS_Ketchup.jpg"
+		},
+		{
+			"product_name_en": "TopValue Ketchup",
+			"product_name_ar": "كاتشب توب فاليو",
+			"product_image": "TopValue_Ketchup.jpg"
+		},
+		{
+			"product_name_en": "VIP Ketchup",
+			"product_name_ar": "كاتشب في أي بي",
+			"product_image": "VIP_Ketchup.jpg"
+		},
+		{
+			"product_name_en": "Zad Sauce Ketchup",
+			"product_name_ar": "كاتشب زاد صوص",
+			"product_image": "Zad-Sauce_Ketchup.jpg"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "AL-JAWHARA TEA",
+			"product_name_ar": "شاي الجوهرة",
+			"product_image": "AL-JAWHARA_TEA.jpg"
+		},
+		{
+			"product_name_en": "AL-KBOUS TEA",
+			"product_name_ar": "شاي الكابوس",
+			"product_image": "AL-KBOUS_TEA.jpg"
+		},
+		{
+			"product_name_en": "Dilma Tea",
+			"product_name_ar": "شاي ديلما",
+			"product_image": "Dilmah_Ceylon_Tea.jpg"
+		},
+		{
+			"product_name_en": "EL-AROSA TEA",
+			"product_name_ar": "شاي العروسة",
+			"product_image": "EL-AROSA_TEA.jpg"
+		},
+		{
+			"product_name_en": "MAHMOOD TEA",
+			"product_name_ar": "شاي محمود",
+			"product_image": "MAHMOOD_TEA.jpg"
+		},
+		{
+			"product_name_en": "RABEI TEA",
+			"product_name_ar": "شاي ربيع",
+			"product_image": "Rabei_Tea.jpg"
+		},
+		{
+			"product_name_en": "Roots TEA",
+			"product_name_ar": "شاي رووتس",
+			"product_image": "Roots_tea.jpg"
+		}
+	]
+}

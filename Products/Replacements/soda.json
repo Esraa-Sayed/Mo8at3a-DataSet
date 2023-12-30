@@ -1,59 +1,59 @@
 {
 	"replacement": [
 		{
-			"product_name_en": "SPIRO SPATHIS",
-			"product_name_ar": "سبيرو سباتس",
-			"product_image": "Spiro-Spathis.jpg"
-		},
-		{
-			"product_name_en": "V7",
-			"product_name_ar": "في 7",
-			"product_image": "v7.png"
-		},
-		{
-			"product_name_en": "Sina Cola",
-			"product_name_ar": "سينا كولا",
-			"product_image": "Sina-Cola.png"
+			"product_name_en": "adio mojito",
+			"product_name_ar": "اديو موجيتو",
+			"product_image": "soda_adio-mojito.jpg"
 		},
 		{
 			"product_name_en": "Buzz",
 			"product_name_ar": "باز",
-			"product_image": "Buzz.png"
+			"product_image": "soda_Buzz.png"
 		},
 		{
 			"product_name_en": "Double Dare",
 			"product_name_ar": "دابل دير",
-			"product_image": "Double-Dare.png"
-		},
-		{
-			"product_name_en": "Top Cola",
-			"product_name_ar": "توب كولا",
-			"product_image": "Top-Cola.jpg"
+			"product_image": "soda_Double-Dare.png"
 		},
 		{
 			"product_name_en": "Maxi Cola",
 			"product_name_ar": "ماكسي كولا",
-			"product_image": "Maxi-Cola.jpg"
+			"product_image": "soda_Maxi-Cola.jpg"
+		},
+		{
+			"product_name_en": "Sina Cola",
+			"product_name_ar": "سينا كولا",
+			"product_image": "soda_Sina-Cola.png"
+		},
+		{
+			"product_name_en": "SPIRO SPATHIS",
+			"product_name_ar": "سبيرو سباتس",
+			"product_image": "soda_Spiro-Spathis.jpg"
+		},
+		{
+			"product_name_en": "Top Cola",
+			"product_name_ar": "توب كولا",
+			"product_image": "soda_Top-Cola.jpg"
 		},
 		{
 			"product_name_en": "UGO",
 			"product_name_ar": "يوجو",
-			"product_image": "UGO.png"
+			"product_image": "soda_UGO.png"
 		},
 		{
-			"product_name_en": "adio mojito",
-			"product_name_ar": "اديو موجيتو",
-			"product_image": "adio-mojito.jpg"
+			"product_name_en": "V7",
+			"product_name_ar": "في 7",
+			"product_image": "soda_v7.png"
 		},
 		{
 			"product_name_en": "Double X",
 			"product_name_ar": "دابل اكس",
-			"product_image": "Double-X.png"
+			"product_image": "soda_Double-X.png"
 		},
 		{
 			"product_name_en": "Snaps",
 			"product_name_ar": "سنابس",
-			"product_image": "snaps.png"
+			"product_image": "soda_snaps.png"
 		}
 	]
 }

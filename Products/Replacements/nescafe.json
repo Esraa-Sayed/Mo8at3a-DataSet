@@ -1,0 +1,114 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "Al-Ameed Coffee",
+			"product_name_ar": "بن العميد",
+			"product_image": "Al-Ameed_Coffee.jpg"
+		},
+		{
+			"product_name_en": "AL-SARHAN Coffee",
+			"product_name_ar": "قهوة السرحان",
+			"product_image": "AL-SARHAN_Coffee.jpg"
+		},
+		{
+			"product_name_en": "Barley",
+			"product_name_ar": "بارلي",
+			"product_image": "Barley.png"
+		},
+		{
+			"product_name_en": "Barlico",
+			"product_name_ar": "بارليكو",
+			"product_image": "Barlico.jpg"
+		},
+		{
+			"product_name_en": "Bravo Coffee",
+			"product_name_ar": "برافو كافيه ",
+			"product_image": "Bravo-Coffee.jpg"
+		},
+		{
+			"product_name_en": "Caffina Coffee",
+			"product_name_ar": "كوفي كافينا",
+			"product_image": "Caffina_coffee.jpg"
+		},
+		{
+			"product_name_en": "Coffee BREAK",
+			"product_name_ar": "كوفي بريك",
+			"product_image": "Coffee-BREAK.jpg"
+		},
+		{
+			"product_name_en": "Dallah Coffee",
+			"product_name_ar": "بن الدله",
+			"product_image": "Dallah_coffee.jpg"
+		},
+		{
+			"product_name_en": "EMAD AFANDI",
+			"product_name_ar": "عماد أفندي",
+			"product_image": "EMAD-AFANDI_COFFEE.jpg"
+		},
+		{
+			"product_name_en": "Good Day",
+			"product_name_ar": "جود داي",
+			"product_image": "Good_Day.jpg"
+		},
+		{
+			"product_name_en": "Haj Arafa",
+			"product_name_ar": "حاج عرفة",
+			"product_image": "Haj-Arafa-coffee.jpg"
+		},
+		{
+			"product_name_en": "Latteria",
+			"product_name_ar": "لاتيريا",
+			"product_image": "Latteria_coffee.jpg"
+		},
+		{
+			"product_name_en": "MacCoffee",
+			"product_name_ar": "كوفي ماك",
+			"product_image": "MacCoffee.png"
+		},
+		{
+			"product_name_en": "MAHMOOD COFFEE",
+			"product_name_ar": "كوفي محمود",
+			"product_image": "MAHMOOD_COFFEE.jpg"
+		},
+		{
+			"product_name_en": "Mega Coffee",
+			"product_name_ar": "ميجا كوفي",
+			"product_image": "Mega-Coffee.jpg"
+		},
+		{
+			"product_name_en": "Misr Café",
+			"product_name_ar": "مصر كافيه",
+			"product_image": "Misr-Cafe.jpg"
+		},
+		{
+			"product_name_en": "NATSHE CAFÉ",
+			"product_name_ar": "نتشه كافيه",
+			"product_image": "NATSHE-CAFE.jpg"
+		},
+		{
+			"product_name_en": "OROUBA COFFEE",
+			"product_name_ar": "بن العروبة",
+			"product_image": "OROUBA_COFFEE.png"
+		},
+		{
+			"product_name_en": "Roots Coffee",
+			"product_name_ar": "كوفي رووتس",
+			"product_image": "Roots_coffee.jpg"
+		},
+		{
+			"product_name_en": "Rose Garden",
+			"product_name_ar": "قهوة روز جاردن",
+			"product_image": "Rose-Garden_Cafe.jpg"
+		},
+		{
+			"product_name_en": "Shaheen Coffee",
+			"product_name_ar": "بن شاهين",
+			"product_image": "Shaheen-Coffee.jpg"
+		},
+		{
+			"product_name_en": "uno Coffee Mix",
+			"product_name_ar": "أونو كوفي ميكس",
+			"product_image": "uno_Coffee_Mix.png"
+		}
+	]
+}

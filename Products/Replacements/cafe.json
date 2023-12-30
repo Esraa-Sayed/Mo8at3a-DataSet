@@ -1,0 +1,19 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "ARABIA CAFÉ",
+			"product_name_ar": "أرابيا كافيه",
+			"product_image": "ARABIA-Cafe.jpg"
+		},
+		{
+			"product_name_en": "Caffina Cafe",
+			"product_name_ar": "كافينا كافيه",
+			"product_image": "Caffina-Cafe.jpg"
+		},
+		{
+			"product_name_en": "Cilantro",
+			"product_name_ar": "سيلنترو",
+			"product_image": "Cilantro-Cafe.png"
+		}
+	]
+}
