@@ -1,0 +1,94 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "Aamak",
+			"product_name_ar": "أعماق",
+			"product_image": "Aamak-water.jpg"
+		},
+		{
+			"product_name_en": "Abar",
+			"product_name_ar": "آبار",
+			"product_image": "Abar-water.jpg"
+		},
+		{
+			"product_name_en": "ACTAVIAN",
+			"product_name_ar": "اكتيفيان",
+			"product_image": "ACTAVIAN-water.jpg"
+		},
+		{
+			"product_name_en": "Amazon",
+			"product_name_ar": "أمازون",
+			"product_image": "Amazon-water.jpg"
+		},
+		{
+			"product_name_en": "AQUA",
+			"product_name_ar": "أكوا",
+			"product_image": "AQUA-water.jpg"
+		},
+		{
+			"product_name_en": "AQUA DELTA",
+			"product_name_ar": "أكوا دلتا",
+			"product_image": "AQUA_DELTA-water.jpg"
+		},
+		{
+			"product_name_en": "Aquario",
+			"product_name_ar": "أكواريو",
+			"product_image": "Aquario.jpg"
+		},
+		{
+			"product_name_en": "EAU",
+			"product_name_ar": "أوه",
+			"product_image": "EAU-water.jpg"
+		},
+		{
+			"product_name_en": "ELANO",
+			"product_name_ar": "إيلانو",
+			"product_image": "ELANO-water.jpg"
+		},
+		{
+			"product_name_en": "FLO",
+			"product_name_ar": "فلو",
+			"product_image": "FLO-water.png"
+		},
+		{
+			"product_name_en": "iSiS",
+			"product_name_ar": "إيزيس",
+			"product_image": "iSiS-water.jpg"
+		},
+		{
+			"product_name_en": "JOYA",
+			"product_name_ar": "جويا",
+			"product_image": "JOYA-water.jpg"
+		},
+		{
+			"product_name_en": "Kaha",
+			"product_name_ar": "قها",
+			"product_image": "Kaha-water.jpg"
+		},
+		{
+			"product_name_en": "LAVIE",
+			"product_name_ar": "لافي",
+			"product_image": "LAVIE-water.jpg"
+		},
+		{
+			"product_name_en": "Nova",
+			"product_name_ar": "نوفا",
+			"product_image": "Nova-water.jpg"
+		},
+		{
+			"product_name_en": "PUVANA",
+			"product_name_ar": "بوفانا",
+			"product_image": "PUVANA-water.jpg"
+		},
+		{
+			"product_name_en": "Safi",
+			"product_name_ar": "صافي",
+			"product_image": "Safi-water.jpg"
+		},
+		{
+			"product_name_en": "SIWA",
+			"product_name_ar": "سيوة",
+			"product_image": "SIWA-water.jpg"
+		}
+	]
+}
