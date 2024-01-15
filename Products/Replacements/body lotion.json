@@ -1,0 +1,49 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "AFRICAN BLOSSOM Body Lotion",
+			"product_name_ar": "مرطب الجسم من أفريكان بلوسوم",
+			"product_image": "AFRICAN_BLOSSOM-Body_Lotion.jpg"
+		},
+		{
+			"product_name_en": "BO BANA BODY LOTION",
+			"product_name_ar": "مرطب الجسم بو بانا",
+			"product_image": "BODY_LOTION-BO_BANA.jpg"
+		},
+		{
+			"product_name_en": "Diva BODY LOTION",
+			"product_name_ar": "مرطب الجسم من ديفا",
+			"product_image": "BODY_LOTION-Diva.jpg"
+		},
+		{
+			"product_name_en": "EVA Body Lotion",
+			"product_name_ar": "مرطب الجسم من إيفا",
+			"product_image": "Body_Lotion-Eva.jpg"
+		},
+		{
+			"product_name_en": "Evasiline",
+			"product_name_ar": "ايفازيلين",
+			"product_image": "Evasiline.jpg"
+		},
+		{
+			"product_name_en": "INFINITY BODY LOTION",
+			"product_name_ar": "مطب الجسم من انفينيتي",
+			"product_image": "BODY_LOTION-INFINITY.jpg"
+		},
+		{
+			"product_name_en": "Mink BODY LOTION",
+			"product_name_ar": "مرطب الجسم من مينك",
+			"product_image": "BODY_LOTION-Mink.jpg"
+		},
+		{
+			"product_name_en": "Passion Baby BODY LOTION",
+			"product_name_ar": "مرطب جسم باشن بيبي",
+			"product_image": "BODY_LOTION-Passion_Baby.jpg"
+		},
+		{
+			"product_name_en": "PENDULINE KIDS Body Lotion",
+			"product_name_ar": "مرطب جسم بندولين للأطفال",
+			"product_image": "Body_Lotion-PENDULINE_KIDS.jpg"
+		}
+	]
+}

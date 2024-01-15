@@ -1,0 +1,349 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "AFRICAN BLOSSOM Body Lotion",
+			"product_name_ar": "مرطب الجسم من أفريكان بلوسوم",
+			"product_image": "AFRICAN_BLOSSOM-Body_Lotion.jpg"
+		},
+		{
+			"product_name_en": "AFRICAN BLOSSOM BODY WASH",
+			"product_name_ar": "غسول جسم من أفريكان بلوسوم",
+			"product_image": "AFRICAN_BLOSSOM-Body_wash.jpg"
+		},
+		{
+			"product_name_en": "Aloekita Conditioner",
+			"product_name_ar": "بلسم الوكيتا",
+			"product_image": "Conditioner-Aloekita.png"
+		},
+		{
+			"product_name_en": "Aloekita Caffeine Shampoo",
+			"product_name_ar": "شامبو الوكيتا بالكافيين",
+			"product_image": "SHAMPOO-Aloekita.jpg"
+		},
+		{
+			"product_name_en": "Aloe Eva Conditioner",
+			"product_name_ar": "بلسم ألو إيفا",
+			"product_image": "Conditioner-Aloe_Eva.jpg"
+		},
+		{
+			"product_name_en": "Aloe Eva Shampoo",
+			"product_name_ar": "شامبو ألو إيفا",
+			"product_image": "SHAMPOO-Aloe_Eva.jpg"
+		},
+		{
+			"product_name_en": "Blankie Kids Conditioner",
+			"product_name_ar": "بلسم بلانكي للأطفال",
+			"product_image": "Conditioner-Blankie.jpg"
+		},
+		{
+			"product_name_en": "Blankie Baby & Kids Shampoo",
+			"product_name_ar": "شامبو بلانكي للأطفال والرضع",
+			"product_image": "SHAMPOO-Blankie.jpg"
+		},
+		{
+			"product_name_en": "BLESS Conditioner",
+			"product_name_ar": "بلسم بِلِس",
+			"product_image": "Conditioner-BLESS.jpg"
+		},
+		{
+			"product_name_en": "BLESS Shampoo",
+			"product_name_ar": "شامبو بِلِس",
+			"product_image": "SHAMPOO-BLESS.jpg"
+		},
+		{
+			"product_name_en": "BO BANA BODY LOTION",
+			"product_name_ar": "مرطب الجسم بو بانا",
+			"product_image": "BODY_LOTION-BO_BANA.jpg"
+		},
+		{
+			"product_name_en": "BO BANA Conditioner",
+			"product_name_ar": "بلسم بو بانا",
+			"product_image": "Conditioner-BO_BANA.jpg"
+		},
+		{
+			"product_name_en": "BO BANA Shampoo",
+			"product_name_ar": "شامبو بو بانا",
+			"product_image": "SHAMPOO-BO_BANA.jpg"
+		},
+		{
+			"product_name_en": "CLARY Conditioner",
+			"product_name_ar": "بلسم كلاري",
+			"product_image": "Conditioner-CLARY.jpg"
+		},
+		{
+			"product_name_en": "CLARY Shampoo",
+			"product_name_ar": "شامبو كلاري",
+			"product_image": "SHAMPOO-CLARY.jpg"
+		},
+		{
+			"product_name_en": "Clear & Healthy",
+			"product_name_ar": "كلير & هيلثي",
+			"product_image": "SHAMPOO-Clear_and_Healthy.jpg"
+		},
+		{
+			"product_name_en": "Delicia Shower Gel",
+			"product_name_ar": "ديليسيا صابون جل للاستحمام",
+			"product_image": "Shower_Gel-Delicia.png"
+		},
+		{
+			"product_name_en": "Diva BODY LOTION",
+			"product_name_ar": "مرطب الجسم من ديفا",
+			"product_image": "BODY_LOTION-Diva.jpg"
+		},
+		{
+			"product_name_en": "Diva Conditioner",
+			"product_name_ar": "مرطب ديفا",
+			"product_image": "Conditioner-Diva.jpg"
+		},
+		{
+			"product_name_en": "Diva Shampoo",
+			"product_name_ar": "شامبو ديفا",
+			"product_image": "SHAMPOO-Diva.jpg"
+		},
+		{
+			"product_name_en": "Divol Kids Conditioner",
+			"product_name_ar": "مرطب ديفول للأطفال",
+			"product_image": "Conditioner-Divol.jpg"
+		},
+		{
+			"product_name_en": "Divol Kids Shampoo",
+			"product_name_ar": "شامبو ديفول للأطفال",
+			"product_image": "SHAMPOO-Divol.jpg"
+		},
+		{
+			"product_name_en": "EVA Body Lotion",
+			"product_name_ar": "مرطب الجسم من إيفا",
+			"product_image": "Body_Lotion-Eva.jpg"
+		},
+		{
+			"product_name_en": "EVA Shower Gel",
+			"product_name_ar": "إيفا صابون جل للاستحمام",
+			"product_image": "ShowerGel-Soap_Eva.jpg"
+		},
+		{
+			"product_name_en": "ever pure KIDS Conditioner",
+			"product_name_ar": "مرطب ايفر بيور للأطفال",
+			"product_image": "Conditioner-ever_pure.jpg"
+		},
+		{
+			"product_name_en": "ever pure KIDS Bath & Shampoo",
+			"product_name_ar": "شامبو ايفر بيور للأطفال",
+			"product_image": "Bath_and_Shampoo-ever_pure.jpg"
+		},
+		{
+			"product_name_en": "ever pure KIDS Shampoo",
+			"product_name_ar": "شامبو ايفر بيور للأطفال",
+			"product_image": "Shampoo-ever_pure.jpg"
+		},
+		{
+			"product_name_en": "FIRSTVOC Hair Lotion",
+			"product_name_ar": "مرطب للشعر من فيرستفوك",
+			"product_image": "Hair_Lotion-FIRSTVOC.jpg"
+		},
+		{
+			"product_name_en": "FIRSTVOC Hair Shampoo & Conditioner",
+			"product_name_ar": "شامبو و مرطب للشعر من فيرستفوك",
+			"product_image": "Shampoo_and_Conditioner-FIRSTVOC.jpg"
+		},
+		{
+			"product_name_en": "FIRSTVOC Shampoo",
+			"product_name_ar": "شامبو فيرستفوك",
+			"product_image": "Shampoo-FIRSTVOC.jpg"
+		},
+		{
+			"product_name_en": "frida mom Body In-Shower Lotion",
+			"product_name_ar": "مرطب الجسم أثناء الاستحمام من فريدا",
+			"product_image": "Body_Lotion-frida.jpg"
+		},
+		{
+			"product_name_en": "frida Conditioner",
+			"product_name_ar": "بلسم فريدا",
+			"product_image": "Conditioner-frida.jpg"
+		},
+		{
+			"product_name_en": "frida Bath & Shower Gel",
+			"product_name_ar": "فريدا صابون جل للاستحمام",
+			"product_image": "ShowerGel-Soap_frida.jpg"
+		},
+		{
+			"product_name_en": "Gold Argan Conditioner",
+			"product_name_ar": "بلسم جولد ارجان",
+			"product_image": "Conditioner-Gold_Argan.jpg"
+		},
+		{
+			"product_name_en": "Gold Argan Shampoo",
+			"product_name_ar": "شامبو جولد ارجان",
+			"product_image": "Shampoo-Gold_Argan.jpg"
+		},
+		{
+			"product_name_en": "Haj Arafa Shampoo & Conditioner",
+			"product_name_ar": "شامبو و بلسم حاج عرفة",
+			"product_image": "Shampoo-Haj_Arafa.jpg"
+		},
+		{
+			"product_name_en": "HELANO – LINE",
+			"product_name_ar": "هيلانو – لاين",
+			"product_image": "SOOTHING_GEL-HELANO_LINE.jpg"
+		},
+		{
+			"product_name_en": "INFINITY BODY LOTION",
+			"product_name_ar": "مطب الجسم من انفينيتي",
+			"product_image": "BODY_LOTION-INFINITY.jpg"
+		},
+		{
+			"product_name_en": "INFINITY Conditioner",
+			"product_name_ar": "بلسم انفينيتي",
+			"product_image": "Conditioner-INFINITY.jpg"
+		},
+		{
+			"product_name_en": "INFINITY Shampoo",
+			"product_name_ar": "شامبو انفينيتي",
+			"product_image": "SHAMPOO-INFINITY.jpg"
+		},
+		{
+			"product_name_en": "Jumboo Shower Gel",
+			"product_name_ar": "جل الاستحمام جامبو",
+			"product_image": "Shower_Gel-Jumboo.jpg"
+		},
+		{
+			"product_name_en": "Mink BODY LOTION",
+			"product_name_ar": "مرطب الجسم من مينك",
+			"product_image": "BODY_LOTION-Mink.jpg"
+		},
+		{
+			"product_name_en": "Mink Conditioner",
+			"product_name_ar": "بلسم مينك",
+			"product_image": "Conditioner-Mink.jpg"
+		},
+		{
+			"product_name_en": "Mink Shampoo",
+			"product_name_ar": "شامبو مينك",
+			"product_image": "SHAMPOO-Mink.jpg"
+		},
+		{
+			"product_name_en": "Nunu baby bath",
+			"product_name_ar": "سائل استحمام من نونو للأطفال",
+			"product_image": "baby_bath-Nunu.jpg"
+		},
+		{
+			"product_name_en": "Nunu baby lotion",
+			"product_name_ar": "لوشن نونو للأطفال",
+			"product_image": "lotion-Nunu.jpg"
+		},
+		{
+			"product_name_en": "Nunu baby conditioner",
+			"product_name_ar": "بلسم نونو للأطفال",
+			"product_image": "conditioner-Nunu.jpg"
+		},
+		{
+			"product_name_en": "Nunu baby shampoo",
+			"product_name_ar": "شامبو نونو للأطفال",
+			"product_image": "SHAMPOO-Nunu.jpg"
+		},
+		{
+			"product_name_en": "OPAL Lotion",
+			"product_name_ar": "مرطب أوبال",
+			"product_image": "Lotion-OPAL.jpg"
+		},
+		{
+			"product_name_en": "OPAL Shower Gel",
+			"product_name_ar": "جل الاستحمام أوبال",
+			"product_image": "Shower_Gel-OPAL.png"
+		},
+		{
+			"product_name_en": "Passion Baby BODY LOTION",
+			"product_name_ar": "مرطب جسم باشن بيبي",
+			"product_image": "BODY_LOTION-Passion_Baby.jpg"
+		},
+		{
+			"product_name_en": "Passion Baby Shampoo",
+			"product_name_ar": "شامبو باشن بيبي",
+			"product_image": "Shampoo-Passion_Baby.jpg"
+		},
+		{
+			"product_name_en": "PENDULINE KIDS Body Lotion",
+			"product_name_ar": "مرطب جسم بندولين للأطفال",
+			"product_image": "Body_Lotion-PENDULINE_KIDS.jpg"
+		},
+		{
+			"product_name_en": "PENDULINE KIDS Conditioner",
+			"product_name_ar": "بلسم بندولين للأطفال",
+			"product_image": "Conditioner-PENDULINE_KIDS.jpg"
+		},
+		{
+			"product_name_en": "PENDULINE KIDS SHAMPOO",
+			"product_name_ar": "شامبو بندولين للأطفال",
+			"product_image": "Shampoo-PENDULINE_KIDS.jpg"
+		},
+		{
+			"product_name_en": "PENDULINE KIDS SHOWER GEL",
+			"product_name_ar": "بندولين صابون جل للاستحمام للأطفال",
+			"product_image": "SHOWER_GEL-PENDULINE_KIDS.jpg"
+		},
+		{
+			"product_name_en": "Rivoli Shower Gel",
+			"product_name_ar": "ريفولي صابون جل للاستحمام",
+			"product_image": "ShowerGel_Shampoo-Rivoli.jpg"
+		},
+		{
+			"product_name_en": "SEBACLAR",
+			"product_name_ar": "سيباكلار",
+			"product_image": "SHAMPOO-SEBACLAR.jpg"
+		},
+		{
+			"product_name_en": "SHEROSA",
+			"product_name_ar": "شيروسا",
+			"product_image": "SHAMPOO-SHEROSA.jpg"
+		},
+		{
+			"product_name_en": "Selengena",
+			"product_name_ar": "سيلينجينا",
+			"product_image": "SHAMPOO-Selengena.jpg"
+		},
+		{
+			"product_name_en": "SPARKLE Conditioner",
+			"product_name_ar": "بلسم سباركل",
+			"product_image": "Conditioner-SPARKLE.jpg"
+		},
+		{
+			"product_name_en": "SPARKLE Shampoo",
+			"product_name_ar": "شامبو سباركل",
+			"product_image": "SHAMPOO-SPARKLE.jpg"
+		},
+		{
+			"product_name_en": "StrongVille Hair Lotion",
+			"product_name_ar": "مرطب شعر من سترونج فيل",
+			"product_image": "Hair_Lotion-Strong_Ville.jpg"
+		},
+		{
+			"product_name_en": "StrongVille Conditioner",
+			"product_name_ar": "بلسم سترونج فيل",
+			"product_image": "Conditioner-Strong_Ville.jpg"
+		},
+		{
+			"product_name_en": "StrongVille Shampoo",
+			"product_name_ar": "شامبو سترونج فيل",
+			"product_image": "SHAMPOO-Strong_Ville.jpg"
+		},
+		{
+			"product_name_en": "SUPER KiDS Conditioner",
+			"product_name_ar": "بلسم سوبر كيدز",
+			"product_image": "Conditioner-SUPER_KiDS.jpg"
+		},
+		{
+			"product_name_en": "SUPER KiDS Shampoo",
+			"product_name_ar": "شامبو سوبر كيدز",
+			"product_image": "SHAMPOO-SUPER_KiDS.jpg"
+		},
+		{
+			"product_name_en": "TOLA Hair Lotion",
+			"product_name_ar": "مرطب شعر تولا",
+			"product_image": "Hair_Lotion-TOLA.jpg"
+		},
+		{
+			"product_name_en": "TOLA Shampoo",
+			"product_name_ar": "شامبو تولا",
+			"product_image": "SHAMPOO-TOLA.jpg"
+		}
+	]
+}

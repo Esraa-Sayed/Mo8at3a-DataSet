@@ -1,0 +1,84 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "BATATOS",
+			"product_name_ar": "بطاطوز",
+			"product_image": "BATATOS.jpg"
+		},
+		{
+			"product_name_en": "BIG CHIPS",
+			"product_name_ar": "بيج شيبس",
+			"product_image": "BIG_CHIPS.jpg"
+		},
+		{
+			"product_name_en": "BIG CHIPS KETTLE Cooked",
+			"product_name_ar": "بيج شيبس",
+			"product_image": "BIG_CHIPS_KETTLE_Cooked.jpg"
+		},
+		{
+			"product_name_en": "Bravo Chips",
+			"product_name_ar": "برافو شيبس",
+			"product_image": "Bravo_Chips.jpg"
+		},
+		{
+			"product_name_en": "CHIPSECO",
+			"product_name_ar": "شيبسيكو",
+			"product_image": "CHIPSECO.jpg"
+		},
+		{
+			"product_name_en": "Fox",
+			"product_name_ar": "فوكس",
+			"product_image": "Fox.jpg"
+		},
+		{
+			"product_name_en": "Fox CRINKLE",
+			"product_name_ar": "فوكس",
+			"product_image": "Fox_CRINKLE.jpg"
+		},
+		{
+			"product_name_en": "MASRAWY",
+			"product_name_ar": "مصراوي",
+			"product_image": "MASRAWY.jpg"
+		},
+		{
+			"product_name_en": "NICE",
+			"product_name_ar": "نايس",
+			"product_image": "NICE.jpg"
+		},
+		{
+			"product_name_en": "Soul - Chips & Dips",
+			"product_name_ar": "سول - شيبس & ديبس",
+			"product_image": "Soul.jpg"
+		},
+		{
+			"product_name_en": "SPUDS",
+			"product_name_ar": "سبادز",
+			"product_image": "SPUDS.jpg"
+		},
+		{
+			"product_name_en": "The Carlito's",
+			"product_name_ar": "كارليتو",
+			"product_image": "The_Carlito.jpg"
+		},
+		{
+			"product_name_en": "TIGER",
+			"product_name_ar": "تايجر",
+			"product_image": "TIGER.jpg"
+		},
+		{
+			"product_name_en": "TIGER ChipsTix",
+			"product_name_ar": "تايجر",
+			"product_image": "TIGER_ChipsTix.jpg"
+		},
+		{
+			"product_name_en": "TIGER Excellence",
+			"product_name_ar": "تايجر",
+			"product_image": "TIGER_Excellence.jpg"
+		},
+		{
+			"product_name_en": "XTRANO chips",
+			"product_name_ar": "اكسترانو شيبس",
+			"product_image": "XTRANO_chips.jpg"
+		}
+	]
+}

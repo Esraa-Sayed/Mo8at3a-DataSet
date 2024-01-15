@@ -1,0 +1,19 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "Carlito",
+			"product_name_ar": "كارليتو",
+			"product_image": "Carlito.jpg"
+		},
+		{
+			"product_name_en": "Jaguar Corn Snacks Tortilla",
+			"product_name_ar": "جاجوار كورن سناكس تورتيلا",
+			"product_image": "Jaguar_Corn_Snacks_Tortilla.jpg"
+		},
+		{
+			"product_name_en": "Nachos Tortilla chips",
+			"product_name_ar": "ناتشوس",
+			"product_image": "Nachos_Tortilla_chips.jpg"
+		}
+	]
+}
