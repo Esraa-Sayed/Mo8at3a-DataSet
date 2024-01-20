@@ -72,6 +72,7 @@
 			"company_name_ar": ""
 		}
 	],
+	"should_update_from_remote_server": true,
 	"show_rocket_image": true,
 	"rocket_image": "rockets.jpg"
 }
