@@ -1,0 +1,19 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "Didi",
+			"product_name_ar": "ديدي",
+			"product_image": "Didi.png"
+		},
+		{
+			"product_name_en": "Ego",
+			"product_name_ar": "ايجو",
+			"product_image": "Ego.png"
+		},
+		{
+			"product_name_en": "Upryde",
+			"product_name_ar": "أب رايد",
+			"product_image": "Upryde.jpg"
+		}
+	]
+}

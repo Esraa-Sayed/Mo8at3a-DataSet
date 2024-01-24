@@ -1,0 +1,79 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "Avanti",
+			"product_name_ar": "أفانتي",
+			"product_image": "Avanti-Cheese.jpg"
+		},
+		{
+			"product_name_en": "Bady",
+			"product_name_ar": "بادي",
+			"product_image": "Bady-Cheese.jpg"
+		},
+		{
+			"product_name_en": "Cheesa",
+			"product_name_ar": "تشيزا",
+			"product_image": "Cheesa-Cheese.jpg"
+		},
+		{
+			"product_name_en": "Dina Farms",
+			"product_name_ar": "مزارع دينا",
+			"product_image": "Dina_Farms-Cheese.jpg"
+		},
+		{
+			"product_name_en": "Domty",
+			"product_name_ar": "دومتي",
+			"product_image": "Domty-Cheese.jpg"
+		},
+		{
+			"product_name_en": "El-Halouba",
+			"product_name_ar": "الحلوبة",
+			"product_image": "El-Halouba-Cheese.jpg"
+		},
+		{
+			"product_name_en": "Healthy",
+			"product_name_ar": "هيلثي",
+			"product_image": "Healthy-Cheese.jpg"
+		},
+		{
+			"product_name_en": "Kheer El-Masreen",
+			"product_name_ar": "خير المصريين",
+			"product_image": "Kheer_El-Masreen-Cheese.jpg"
+		},
+		{
+			"product_name_en": "Labanita",
+			"product_name_ar": "لبنيتا",
+			"product_image": "Labanita-Cheese.png"
+		},
+		{
+			"product_name_en": "Mafaza",
+			"product_name_ar": "مفازا",
+			"product_image": "Mafaza-Cheese.jpg"
+		},
+		{
+			"product_name_en": "OBOUR LAND",
+			"product_name_ar": "عبور لاند",
+			"product_image": "Obourland-Cheese.jpg"
+		},
+		{
+			"product_name_en": "panda",
+			"product_name_ar": "باندا",
+			"product_image": "panda-Cheese.jpg"
+		},
+		{
+			"product_name_en": "REMAS LAND",
+			"product_name_ar": "ريماس لاند",
+			"product_image": "REMAS_LAND.jpg"
+		},
+		{
+			"product_name_en": "Rhodes",
+			"product_name_ar": "رودِس",
+			"product_image": "Rhodes-Cheese.jpg"
+		},
+		{
+			"product_name_en": "Teama Milk",
+			"product_name_ar": "طعمة ميلك",
+			"product_image": "Teama_Milk.png"
+		}
+	]
+}

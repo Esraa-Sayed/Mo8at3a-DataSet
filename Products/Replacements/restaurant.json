@@ -1,0 +1,144 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "Abo Mazen",
+			"product_name_ar": "أبو مازن (سوري)",
+			"product_image": "Abo-Mazen.jpg"
+		},
+		{
+			"product_name_en": "Abu Ammar",
+			"product_name_ar": "أبو عمار (سوري)",
+			"product_image": "Abu_Ammar.jpg"
+		},
+		{
+			"product_name_en": "Akleh",
+			"product_name_ar": "أكلِة (سوري)",
+			"product_image": "Akleh.png"
+		},
+		{
+			"product_name_en": "Anas Al-Dimashqi",
+			"product_name_ar": "أنس الدمشقي (سوري)",
+			"product_image": "Anas_Al-Dimashqi.jpg"
+		},
+		{
+			"product_name_en": "Atyab",
+			"product_name_ar": "أطياب",
+			"product_image": "Atyab.jpg"
+		},
+		{
+			"product_name_en": "Barakat Al-Halabi",
+			"product_name_ar": "بركات الحلبي (سوري)",
+			"product_image": "Barakat_Al-Halabi.jpg"
+		},
+		{
+			"product_name_en": "Bazooka Fried Chicken",
+			"product_name_ar": "بازوكا فرايد تشكين",
+			"product_image": "Bazooka_Fried_Chicken.jpg"
+		},
+		{
+			"product_name_en": "Beef Burger",
+			"product_name_ar": "بيف برجر",
+			"product_image": "Beef_Burger.jpg"
+		},
+		{
+			"product_name_en": "Buffalo Burger",
+			"product_name_ar": "بافالو برجر",
+			"product_image": "Buffalo_Burger.jpg"
+		},
+		{
+			"product_name_en": "Caizo",
+			"product_name_ar": "كايزو",
+			"product_image": "Caizo.jpg"
+		},
+		{
+			"product_name_en": "Cook Door",
+			"product_name_ar": "كوك دوور",
+			"product_image": "Cook_Door.jpg"
+		},
+		{
+			"product_name_en": "Dewan El-Sham",
+			"product_name_ar": "ديوان الشام",
+			"product_image": "Dewan_El-Sham.jpg"
+		},
+		{
+			"product_name_en": "El-Dewan",
+			"product_name_ar": "الديوان (سوري)",
+			"product_image": "El-Dewan.jpg"
+		},
+		{
+			"product_name_en": "Fried Chicken",
+			"product_name_ar": "فرايد تشكين",
+			"product_image": "Fried_Chicken.jpg"
+		},
+		{
+			"product_name_en": "Heart Attack",
+			"product_name_ar": "هارت أتاك",
+			"product_image": "Heart_Attack.jpg"
+		},
+		{
+			"product_name_en": "Holmes",
+			"product_name_ar": "هولمز",
+			"product_image": "Holmes.jpg"
+		},
+		{
+			"product_name_en": "Kansas Fried Chicken",
+			"product_name_ar": "كنساس فرايد تشكين",
+			"product_image": "Kansas_Fried_Chicken.jpg"
+		},
+		{
+			"product_name_en": "Karam El-Sham",
+			"product_name_ar": "كرم الشام (سوري)",
+			"product_image": "Karam_El-Sham.jpg"
+		},
+		{
+			"product_name_en": "Konafa w Basbosa",
+			"product_name_ar": "كنافة و بسبوسة",
+			"product_image": "Konafa_w_Basbosa.jpg"
+		},
+		{
+			"product_name_en": "Mince Burgers",
+			"product_name_ar": "مينس برجرز",
+			"product_image": "Mince_Burgers.jpg"
+		},
+		{
+			"product_name_en": "Pizza King",
+			"product_name_ar": "بيتزا كينج",
+			"product_image": "Pizza_King.png"
+		},
+		{
+			"product_name_en": "Primo's Pizza",
+			"product_name_ar": "بريموز بيتزا",
+			"product_image": "Primos_Pizza.jpg"
+		},
+		{
+			"product_name_en": "Rosto",
+			"product_name_ar": "روستو (سوري)",
+			"product_image": "Rosto.jpg"
+		},
+		{
+			"product_name_en": "Spicy",
+			"product_name_ar": "سبايسي",
+			"product_image": "Spicy.jpg"
+		},
+		{
+			"product_name_en": "Vinny's Pizza",
+			"product_name_ar": "فينيس بيتزا",
+			"product_image": "Vinnys_Pizza.jpg"
+		},
+		{
+			"product_name_en": "What the Crust",
+			"product_name_ar": "وات ذا كراست",
+			"product_image": "What_the_Crust.png"
+		},
+		{
+			"product_name_en": "Willy's Kitchen",
+			"product_name_ar": "ويلز كيتشن",
+			"product_image": "Willy's_Kitchen.png"
+		},
+		{
+			"product_name_en": "Zack's",
+			"product_name_ar": "زاكس",
+			"product_image": "Zacks.jpg"
+		}
+	]
+}

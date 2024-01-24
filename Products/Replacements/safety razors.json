@@ -1,0 +1,34 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "AVUVA",
+			"product_name_ar": "أفوفا",
+			"product_image": "AVUVA.jpg"
+		},
+		{
+			"product_name_en": "LORD",
+			"product_name_ar": "لورد",
+			"product_image": "LORD.jpg"
+		},
+		{
+			"product_name_en": "LORD Lady plus",
+			"product_name_ar": "لورد ليدي بلس",
+			"product_image": "LORD_Lady_plus.jpg"
+		},
+		{
+			"product_name_en": "QUEEN LORD",
+			"product_name_ar": "كوين لورد",
+			"product_image": "QUEEN_LORD.jpg"
+		},
+		{
+			"product_name_en": "VIP LADY",
+			"product_name_ar": "في أي بي ليدي",
+			"product_image": "VIP_LADY.jpg"
+		},
+		{
+			"product_name_en": "VIP MAN",
+			"product_name_ar": "في أي بي مان",
+			"product_image": "VIP_MAN.jpg"
+		}
+	]
+}

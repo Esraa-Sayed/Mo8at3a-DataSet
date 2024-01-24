@@ -1,0 +1,69 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "Alfa Market",
+			"product_name_ar": "ألفا ماركت",
+			"product_image": "Alfa_Market.png"
+		},
+		{
+			"product_name_en": "Alrayah Market",
+			"product_name_ar": "سوبر ماركت الراية",
+			"product_image": "Alrayah_Market.jpg"
+		},
+		{
+			"product_name_en": "BIM",
+			"product_name_ar": "بيم",
+			"product_image": "BIM.png"
+		},
+		{
+			"product_name_en": "Fathallah Supermarket",
+			"product_name_ar": "سوبر ماركت فتح الله",
+			"product_image": "Fathallah_Supermarket.jpg"
+		},
+		{
+			"product_name_en": "Fresh Food Market",
+			"product_name_ar": "فريش فود ماركت",
+			"product_image": "Fresh_Food_Market.jpg"
+		},
+		{
+			"product_name_en": "Gomla Market",
+			"product_name_ar": "جملة ماركت",
+			"product_image": "Gomla_Market.jpg"
+		},
+		{
+			"product_name_en": "Hyperone",
+			"product_name_ar": "هايبر وان",
+			"product_image": "Hyperone.jpg"
+		},
+		{
+			"product_name_en": "Kazyon",
+			"product_name_ar": "كازيون",
+			"product_image": "Kazyon.jpg"
+		},
+		{
+			"product_name_en": "KHAN EL HUSSEIN MARKET",
+			"product_name_ar": "خان الحسين ماركت",
+			"product_image": "KHAN_EL_HUSSEIN_MARKET.jpg"
+		},
+		{
+			"product_name_en": "Metro Market",
+			"product_name_ar": "مترو ماركت",
+			"product_image": "Metro_Market.png"
+		},
+		{
+			"product_name_en": "Othiam",
+			"product_name_ar": "العثيم",
+			"product_image": "Othiam.png"
+		},
+		{
+			"product_name_en": "Seoudi Supermarket",
+			"product_name_ar": "سوبر ماركت سعودي",
+			"product_image": "Seoudi_Supermarket.jpg"
+		},
+		{
+			"product_name_en": "Zahran Market",
+			"product_name_ar": "زهران ماركت",
+			"product_image": "Zahran_Market.png"
+		}
+	]
+}
