@@ -1,0 +1,494 @@
+{
+	"replacement": [
+		{
+			"product_name_en": "Aloekita Hair Conditioner & Shampoo",
+			"product_name_ar": "بلسم و شامبو شعر من الوكيتا",
+			"product_image": "Aloekita_Hair_Conditioner_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "Aloekita Hair Mask",
+			"product_name_ar": "ماسك شعر من الوكيتا",
+			"product_image": "Aloekita_Hair_Mask.jpg"
+		},
+		{
+			"product_name_en": "Aloekita Hair Spray",
+			"product_name_ar": "سبراي شعر من الوكيتا",
+			"product_image": "Aloekita_Hair_Spray.png"
+		},
+		{
+			"product_name_en": "Aloe Eva Hair Conditioner",
+			"product_name_ar": "بلسم شعر من ألو إيفا",
+			"product_image": "Aloe_Eva_Hair_Conditioner.jpg"
+		},
+		{
+			"product_name_en": "Aloe Eva Hair Cream",
+			"product_name_ar": "كريم شعر من ألو إيفا",
+			"product_image": "Aloe_Eva_Hair_Cream.jpg"
+		},
+		{
+			"product_name_en": "Aloe Eva Hair Mask",
+			"product_name_ar": "ماسك شعر من ألو إيفا",
+			"product_image": "Aloe_Eva_Hair_Mask.jpg"
+		},
+		{
+			"product_name_en": "Aloe Eva Hair Oil",
+			"product_name_ar": "زيت شعر من ألو إيفا",
+			"product_image": "Aloe_Eva_Hair_Oil.jpg"
+		},
+		{
+			"product_name_en": "Aloe Eva Hair Shampoo",
+			"product_name_ar": "شامبو شعر من ألو إيفا",
+			"product_image": "Aloe_Eva_Hair_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "Blankie Kids Hair Conditioner",
+			"product_name_ar": "بلسم شعر بلانكي للأطفال",
+			"product_image": "Conditioner-Blankie.jpg"
+		},
+		{
+			"product_name_en": "Blankie Kids Hair Cream",
+			"product_name_ar": "كريم شعر بلانكي للأطفال",
+			"product_image": "Blankie_Kids_Hair_Cream.jpg"
+		},
+		{
+			"product_name_en": "Blankie Kids Hair Oil",
+			"product_name_ar": "زيت شعر بلانكي للأطفال",
+			"product_image": "Blankie_Kids_Hair_Oil.jpg"
+		},
+		{
+			"product_name_en": "Blankie Baby & Kids Shampoo",
+			"product_name_ar": "شامبو بلانكي للأطفال والرضع",
+			"product_image": "SHAMPOO-Blankie.jpg"
+		},
+		{
+			"product_name_en": "BLESS Conditioner",
+			"product_name_ar": "بلسم بِلِس",
+			"product_image": "Conditioner-BLESS.jpg"
+		},
+		{
+			"product_name_en": "BLESS Hair Cream",
+			"product_name_ar": "كريم شعر من بِلِس",
+			"product_image": "BLESS_Hair_Cream.jpg"
+		},
+		{
+			"product_name_en": "BLESS Hair Oil",
+			"product_name_ar": "زيت شعر من بِلِس",
+			"product_image": "BLESS_Hair_Oil.jpg"
+		},
+		{
+			"product_name_en": "BLESS Shampoo",
+			"product_name_ar": "شامبو بِلِس",
+			"product_image": "SHAMPOO-BLESS.jpg"
+		},
+		{
+			"product_name_en": "BOBANA Hair Cream & Mask",
+			"product_name_ar": "كريم و ماسك شعر من بوبانا",
+			"product_image": "BOBANA_Hair_Cream_Mask.jpg"
+		},
+		{
+			"product_name_en": "BOBANA Hair Conditioner & Shampoo",
+			"product_name_ar": "بلسم و شامبو شعر من بوبانا",
+			"product_image": "BOBANA_Hair_Conditioner_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "CLARY Hair Conditioner",
+			"product_name_ar": "بلسم شعر من كلاري",
+			"product_image": "CLARY_Hair_Conditioner.jpg"
+		},
+		{
+			"product_name_en": "CLARY Hair Fresh Scalp",
+			"product_name_ar": "لفروة الرأس المنعشة من كلاري",
+			"product_image": "CLARY_Hair_Fresh_Scalp.jpg"
+		},
+		{
+			"product_name_en": "CLARY Hair Mask",
+			"product_name_ar": "ماسك شعر من كلاري",
+			"product_image": "CLARY_Hair_Mask.jpg"
+		},
+		{
+			"product_name_en": "CLARY Hair Mist SPF",
+			"product_name_ar": "رذاذ شعر من كلاري",
+			"product_image": "CLARY_Hair_Mist_SPF.jpg"
+		},
+		{
+			"product_name_en": "CLARY Hair Serum",
+			"product_name_ar": "مصل شعر من كلاري",
+			"product_image": "CLARY_Hair_Serum.jpg"
+		},
+		{
+			"product_name_en": "CLARY Hair Shampoo",
+			"product_name_ar": "شامبو شعر من كلاري",
+			"product_image": "CLARY_Hair_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "CLARY Hair Water",
+			"product_name_ar": "مياة للشعر من كلاري",
+			"product_image": "CLARY_Hair_Water.jpg"
+		},
+		{
+			"product_name_en": "Clear & Healthy Hair Cream",
+			"product_name_ar": "كريم شعر من كلير & هيلثي",
+			"product_image": "Clear_and_Healthy_Hair_Cream.jpg"
+		},
+		{
+			"product_name_en": "Clear & Healthy Hair Spray",
+			"product_name_ar": "سبراي شعر من كلير & هيلثي",
+			"product_image": "Clear_and_Healthy_Hair_Spray.jpg"
+		},
+		{
+			"product_name_en": "Diva Cosmetics Hair Conditioner & Shampoo",
+			"product_name_ar": "بلسم و شامبو شعر من ديفا",
+			"product_image": "Diva_Cosmetics_Hair_Conditioner_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "DURU Hair Conditioner",
+			"product_name_ar": "بلسم شعر من دورو",
+			"product_image": "DURU_Hair_Conditioner.jpg"
+		},
+		{
+			"product_name_en": "DURU Spray Lotion",
+			"product_name_ar": "غسول سبراي من دورو",
+			"product_image": "DURU_Spray_Lotion.jpg"
+		},
+		{
+			"product_name_en": "DURU Hair Shampoo",
+			"product_name_ar": "شامبو شعر من دورو",
+			"product_image": "DURU_Hair_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "ever pure KIDS Conditioner",
+			"product_name_ar": "مرطب ايفر بيور للأطفال",
+			"product_image": "Conditioner-ever_pure.jpg"
+		},
+		{
+			"product_name_en": "FIRSTVOC Hair Lotion",
+			"product_name_ar": "مرطب للشعر من فيرستفوك",
+			"product_image": "Hair_Lotion-FIRSTVOC.jpg"
+		},
+		{
+			"product_name_en": "FIRSTVOC Hair Shampoo & Conditioner",
+			"product_name_ar": "شامبو و مرطب للشعر من فيرستفوك",
+			"product_image": "Shampoo_and_Conditioner-FIRSTVOC.jpg"
+		},
+		{
+			"product_name_en": "FIRSTVOC Shampoo",
+			"product_name_ar": "شامبو فيرستفوك",
+			"product_image": "Shampoo-FIRSTVOC.jpg"
+		},
+		{
+			"product_name_en": "Gold Argan Hair Conditioner",
+			"product_name_ar": "بلسم شعر من جولد ارجان",
+			"product_image": "Conditioner-Gold_Argan.jpg"
+		},
+		{
+			"product_name_en": "Gold Argan Hair Cream & Shampoo",
+			"product_name_ar": "كريم & شامبو للشعر من جولد ارجان",
+			"product_image": "Gold_Argan_Hair_Cream_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "Haj Arafa Shampoo & Conditioner",
+			"product_name_ar": "شامبو و بلسم حاج عرفة",
+			"product_image": "Shampoo-Haj_Arafa.jpg"
+		},
+		{
+			"product_name_en": "Imtenan Hair Oil",
+			"product_name_ar": "زيت شعر من إمتنان",
+			"product_image": "Imtenan_Hair_Oil.jpg"
+		},
+		{
+			"product_name_en": "INFINITY Hair Conditioner",
+			"product_name_ar": "بلسم شعر من انفينيتي",
+			"product_image": "INFINITY_Hair_Conditioner.jpg"
+		},
+		{
+			"product_name_en": "INFINITY Hair Cream",
+			"product_name_ar": "كريم شعر من انفينيتي",
+			"product_image": "INFINITY_Hair_Cream.jpg"
+		},
+		{
+			"product_name_en": "INFINITY Hair Lotion",
+			"product_name_ar": "غسول شعر من انفينيتي",
+			"product_image": "INFINITY_Hair_Lotion.jpg"
+		},
+		{
+			"product_name_en": "INFINITY Hair Mask",
+			"product_name_ar": "ماسك شعر من انفينيتي",
+			"product_image": "INFINITY_Hair_Mask.jpg"
+		},
+		{
+			"product_name_en": "INFINITY Hair Oil",
+			"product_name_ar": "زيت شعر من انفينيتي",
+			"product_image": "INFINITY_Hair_Oil.jpg"
+		},
+		{
+			"product_name_en": "INFINITY Shampoo",
+			"product_name_ar": "شامبو انفينيتي",
+			"product_image": "SHAMPOO-INFINITY.jpg"
+		},
+		{
+			"product_name_en": "Joviality Hair Conditioner & Shampoo",
+			"product_name_ar": "بلسم و شامبو شعر من جوفيالتي",
+			"product_image": "Joviality_Hair_Conditioner_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "Joviality Hair Gel Cream",
+			"product_name_ar": "كريم شعر من جوفيالتي",
+			"product_image": "Joviality_Hair_Gel_Cream.jpg"
+		},
+		{
+			"product_name_en": "Joviality Hair Mask",
+			"product_name_ar": "ماسك شعر من جوفيالتي",
+			"product_image": "Joviality_Hair_Mask.jpg"
+		},
+		{
+			"product_name_en": "Joviality Hair Oil",
+			"product_name_ar": "زيت شعر من جوفيالتي",
+			"product_image": "Joviality_Hair_Oil.jpg"
+		},
+		{
+			"product_name_en": "Joviality Hair Spray",
+			"product_name_ar": "سبراي شعر من جوفيالتي",
+			"product_image": "Joviality_Hair_Spray.jpg"
+		},
+		{
+			"product_name_en": "LUNA Hair Conditioner & Shampoo",
+			"product_name_ar": "بلسم و شامبو شعر من لونا",
+			"product_image": "LUNA_Hair_Conditioner_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "LUNA Hair Oil",
+			"product_name_ar": "زيت شعر من لونا",
+			"product_image": "LUNA_Hair_Oil.jpg"
+		},
+		{
+			"product_name_en": "Milagre Hair Conditioner & Shampoo",
+			"product_name_ar": "بلسم و شامبو شعر من ميلاجري",
+			"product_image": "Milagre_Hair_Conditioner_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "Mink Hair Conditioner",
+			"product_name_ar": "بلسم شعر من مينك",
+			"product_image": "Conditioner-Mink.jpg"
+		},
+		{
+			"product_name_en": "Mink Hair Cream",
+			"product_name_ar": "كريم شعر من مينك",
+			"product_image": "Mink_Hair_Cream.jpg"
+		},
+		{
+			"product_name_en": "Mink Hair Oil",
+			"product_name_ar": "زيت شعر من مينك",
+			"product_image": "Mink_Hair_Oil.jpg"
+		},
+		{
+			"product_name_en": "Mink Hair Shampoo",
+			"product_name_ar": "شامبو شعر من مينك",
+			"product_image": "SHAMPOO-Mink.jpg"
+		},
+		{
+			"product_name_en": "My Way Hair Cream",
+			"product_name_ar": "كريم شعر من ماي واي",
+			"product_image": "My_Way_Hair_Cream.jpg"
+		},
+		{
+			"product_name_en": "My Way Hair Shampoo",
+			"product_name_ar": "شامبو شعر من ماي واي",
+			"product_image": "My_Way_Hair_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "My Way Hair Spray",
+			"product_name_ar": "سبراي شعر من ماي واي",
+			"product_image": "My_Way_Hair_Spray.jpg"
+		},
+		{
+			"product_name_en": "OPAL Hair Conditioner",
+			"product_name_ar": "بلسم شعر من أوبال",
+			"product_image": "OPAL_Hair_Conditioner.jpg"
+		},
+		{
+			"product_name_en": "OPAL Hair Cream",
+			"product_name_ar": "كريم شعر من أوبال",
+			"product_image": "OPAL_Hair_Cream.jpg"
+		},
+		{
+			"product_name_en": "OPAL Hair Mask",
+			"product_name_ar": "ماسك شعر من أوبال",
+			"product_image": "OPAL_Hair_Mask.png"
+		},
+		{
+			"product_name_en": "OPAL Hair Oil",
+			"product_name_ar": "زيت شعر من أوبال",
+			"product_image": "OPAL_Hair_Oil.jpg"
+		},
+		{
+			"product_name_en": "OPAL Hair Serum",
+			"product_name_ar": "سيرم شعر من أوبال",
+			"product_image": "OPAL_Hair_Serum.jpg"
+		},
+		{
+			"product_name_en": "OPAL Hair Shampoo",
+			"product_name_ar": "شامبو شعر من أوبال",
+			"product_image": "OPAL_Hair_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "PENDULINE KIDS Hair Conditioner",
+			"product_name_ar": "بلسم شعر من بندوليت كيدز",
+			"product_image": "PENDULINE_KIDS_Hair_Conditioner.jpg"
+		},
+		{
+			"product_name_en": "PENDULINE KIDS Hair Cream",
+			"product_name_ar": "كريم شعر من بندوليت كيدز",
+			"product_image": "PENDULINE_KIDS_Hair_Cream.jpg"
+		},
+		{
+			"product_name_en": "PENDULINE KIDS Hair Mask",
+			"product_name_ar": "ماسك شعر من بندوليت كيدز",
+			"product_image": "PENDULINE_KIDS_Hair_Mask.jpg"
+		},
+		{
+			"product_name_en": "PENDULINE KIDS Hair Oil",
+			"product_name_ar": "زيت شعر من بندوليت كيدز",
+			"product_image": "PENDULINE_KIDS_Hair_Oil.jpg"
+		},
+		{
+			"product_name_en": "PENDULINE KIDS Hair Shampoo",
+			"product_name_ar": "شامبو شعر من بندوليت كيدز",
+			"product_image": "PENDULINE_KIDS_Hair_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "PENDULINE KIDS Hair Spray",
+			"product_name_ar": "سبراي شعر من بندوليت كيدز",
+			"product_image": "PENDULINE_KIDS_Hair_Spray.jpg"
+		},
+		{
+			"product_name_en": "SHEROSA Hair Shampoo",
+			"product_name_ar": "شامبو شعر من شيروسا",
+			"product_image": "SHEROSA_Hair_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "Selengena Hair Shampoo",
+			"product_name_ar": "شامبو شعر من سيلينجينا",
+			"product_image": "SHAMPOO-Selengena.jpg"
+		},
+		{
+			"product_name_en": "So ma Vie Hair Conditioner",
+			"product_name_ar": "بلسم شعر من سو ما في",
+			"product_image": "SomaVie_Hair_Conditioner.jpg"
+		},
+		{
+			"product_name_en": "So ma Vie Hair Cream",
+			"product_name_ar": "كريم شعر من سو ما في",
+			"product_image": "SomaVie_Hair_Cream.jpg"
+		},
+		{
+			"product_name_en": "So ma Vie Hair Lotion",
+			"product_name_ar": "غسول شعر من سو ما في",
+			"product_image": "SomaVie_Hair_Lotion.png"
+		},
+		{
+			"product_name_en": "So ma Vie Hair Mask",
+			"product_name_ar": "ماسك شعر من سو ما في",
+			"product_image": "SomaVie_Hair_Mask.jpg"
+		},
+		{
+			"product_name_en": "So ma Vie Hair Shampoo",
+			"product_name_ar": "شامبو شعر من سو ما في",
+			"product_image": "SomaVie_Hair_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "SPARKLE Hair Conditioner",
+			"product_name_ar": "بلسم شعر من سباركل",
+			"product_image": "Conditioner-SPARKLE.jpg"
+		},
+		{
+			"product_name_en": "SPARKLE Hair Cream",
+			"product_name_ar": "كريم شعر من سباركل",
+			"product_image": "SPARKLE_Hair_Cream.jpg"
+		},
+		{
+			"product_name_en": "SPARKLE Hair Mask",
+			"product_name_ar": "ماسك شعر من سباركل",
+			"product_image": "SPARKLE_Hair_Mask.jpg"
+		},
+		{
+			"product_name_en": "SPARKLE Hair Oil",
+			"product_name_ar": "زيت شعر من سباركل",
+			"product_image": "SPARKLE_Hair_Oil.jpg"
+		},
+		{
+			"product_name_en": "SPARKLE Hair Shampoo",
+			"product_name_ar": "شامبو شعر من سباركل",
+			"product_image": "SPARKLE_Hair_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "StrongVille Hair Conditioner",
+			"product_name_ar": "بلسم شعر من سترونج فيل",
+			"product_image": "StrongVille_Hair_Conditioner.jpg"
+		},
+		{
+			"product_name_en": "StrongVille Hair Cream",
+			"product_name_ar": "كريم شعر من سترونج فيل",
+			"product_image": "StrongVille_Hair_Cream.jpg"
+		},
+		{
+			"product_name_en": "StrongVille Hair Lotion",
+			"product_name_ar": "غسول شعر من سترونج فيل",
+			"product_image": "StrongVille_Hair_Lotion.jpg"
+		},
+		{
+			"product_name_en": "StrongVille Hair Oil",
+			"product_name_ar": "زيت شعر من سترونج فيل",
+			"product_image": "StrongVille_Hair_Oil.jpg"
+		},
+		{
+			"product_name_en": "StrongVille Hair Shampoo",
+			"product_name_ar": "شامبو شعر من سترونج فيل",
+			"product_image": "StrongVille_Hair_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "StrongVille Hair Spray",
+			"product_name_ar": "سبراي شعر من سترونج فيل",
+			"product_image": "StrongVille_Hair_Spray.jpg"
+		},
+		{
+			"product_name_en": "SUPER KiDS Hair Conditioner",
+			"product_name_ar": "بلسم شعر من سوبر كيدز",
+			"product_image": "SUPER_KiDS_Hair_Conditioner.jpg"
+		},
+		{
+			"product_name_en": "SUPER KiDS Hair Cream",
+			"product_name_ar": "كريم شعر من سوبر كيدز",
+			"product_image": "SUPER_KiDS_Hair_Cream.jpg"
+		},
+		{
+			"product_name_en": "SUPER KiDS Hair Mask",
+			"product_name_ar": "ماسك شعر من سوبر كيدز",
+			"product_image": "SUPER_KiDS_Hair_Mask.jpg"
+		},
+		{
+			"product_name_en": "SUPER KiDS Hair Shampoo",
+			"product_name_ar": "شامبو شعر من سوبر كيدز",
+			"product_image": "SUPER_KiDS_Hair_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "SUPER KiDS Hair Spray",
+			"product_name_ar": "سبراي شعر من سوبر كيدز",
+			"product_image": "SUPER_KiDS_Hair_Spray.jpg"
+		},
+		{
+			"product_name_en": "TOLA Hair Cream & Shampoo",
+			"product_name_ar": "كريم و شامبو للشعر من تولا",
+			"product_image": "TOLA_Hair_Cream_Shampoo.jpg"
+		},
+		{
+			"product_name_en": "TOLA Hair Lotion",
+			"product_name_ar": "غسول للشعر من تولا",
+			"product_image": "TOLA_Hair_Lotion.jpg"
+		},
+		{
+			"product_name_en": "TOLA Hair Oil Replacement",
+			"product_name_ar": "بديل زيت الشعر من تولا",
+			"product_image": "TOLA_Hair_Oil_Replacement.jpg"
+		}
+	]
+}

@@ -106,6 +106,11 @@
 			"product_image": "Shaheen-Coffee.jpg"
 		},
 		{
+			"product_name_en": "Seelaz",
+			"product_name_ar": "سيلاز",
+			"product_image": "Seelaz-Coffee.png"
+		},
+		{
 			"product_name_en": "uno Coffee Mix",
 			"product_name_ar": "أونو كوفي ميكس",
 			"product_image": "uno_Coffee_Mix.png"

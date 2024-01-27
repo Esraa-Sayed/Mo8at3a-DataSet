@@ -14,6 +14,11 @@
 			"product_name_en": "Cilantro",
 			"product_name_ar": "سيلنترو",
 			"product_image": "Cilantro-Cafe.png"
+		},
+		{
+			"product_name_en": "Seelaz",
+			"product_name_ar": "سيلاز",
+			"product_image": "Seelaz-Cafe.png"
 		}
 	]
 }
